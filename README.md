@@ -36,7 +36,7 @@ session.
 
 Additional resources you might want to check out are:
 
-* [DataFrames.jl manual](https://juliadata.github.io/DataFrames.jl/stable/)
+* [DataFrames.jl Manual](https://juliadata.github.io/DataFrames.jl/stable/)
 * [DataFrames.jl Tutorial](https://github.com/bkamins/Julia-DataFrames-Tutorial/)
 * [JuliaAcademy Introduction to DataFrames.jl](https://juliaacademy.com/p/introduction-to-dataframes-jl)
 
