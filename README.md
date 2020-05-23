@@ -4,7 +4,7 @@ A hands-on tutorial on the DataFrames.jl package prepared for JuliaCon2019.
 
 It consists of two files:
 * `DataFramesIntroduction.ipynb` containing essential examples to start working
-* with DataFrames.jl package and related package ecosystem
+  with DataFrames.jl package and related package ecosystem
 * `DataFramesExercises.ipynb` intended as a sandbox for additional exercises
 
 The repository contains source data files `bank-additional-full.csv`, `data.txt`
