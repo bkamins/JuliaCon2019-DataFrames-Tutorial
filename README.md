@@ -2,8 +2,8 @@
 
 A hands-on tutorial on the DataFrames.jl package prepared for JuliaCon2019.
 
-This is the version of the tutorial updated to DataFrames.jl 0.22 and tested
-under Julia 1.5.3.
+This is the version of the tutorial updated to DataFrames.jl 1.1.1 and tested
+under Julia 1.6.1.
 
 It consists of two files:
 * `DataFramesIntroduction.ipynb` containing essential examples to start working
